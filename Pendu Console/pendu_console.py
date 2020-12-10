@@ -1,3 +1,9 @@
+"""
+Jeu pendu version console
+03/12/2020
+Lucas Fleury
+"""
+
 from random import choice
 
 
