@@ -2,6 +2,7 @@
 Jeu pendu version graphique
 10/12/2020
 Lucas Fleury
+https://github.com/qalf/Pendu
 """
 
 from random import choice
@@ -71,7 +72,6 @@ def AfficheLettre(): # programme principale qui est appelé à chaque fois qu'on
     for i in range(1,len(mot)):
         if mot[i] == lettre:
             LstAffiche[i] = lettre
-            Lettres.remove(lettre)
             c += 1
             
     if c == 0:

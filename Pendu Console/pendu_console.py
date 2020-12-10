@@ -2,6 +2,7 @@
 Jeu pendu version console
 03/12/2020
 Lucas Fleury
+https://github.com/qalf/Pendu
 """
 
 from random import choice
